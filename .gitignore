@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+.npmrc.local
+_audit_dump/
+_*.py
